@@ -16,10 +16,10 @@
 		<div class="jumbotron">
 			<h1>Man's not hot in forloop Asaba</h1>
 		</div>
-		<div class="panel panel-body">
-			<p>
+		<div class="panel panel-body text-center">
+			<h3>
 				This is the new sauce raw sauce no ketchup just sauce
-			</p>
+			</h3>
 		</div>
 	</div>
 </body>
